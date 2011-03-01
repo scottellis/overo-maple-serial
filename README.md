@@ -33,19 +33,19 @@ as you would any other project.
   test
 -------
 
-root@overo:~# ls
-serial_c
+	root@overo:~# ls
+	serial_c
 
-root@overo:~# ./serial_c hello
-Sent: hello
-Received: HELLO
+	root@overo:~# ./serial_c hello
+	Sent: hello
+	Received: HELLO
 
-root@overo:~# ./serial_c good-bye
-Sent: good-bye
-Received: GOOD-BYE
+	root@overo:~# ./serial_c good-bye
+	Sent: good-bye
+	Received: GOOD-BYE
 
-root@overo:~# ./serial_c 
-Sent: maple-can-you-hear-me?
-Received: MAPLE-CAN-YOU-HEAR-ME?
+	root@overo:~# ./serial_c 
+	Sent: maple-can-you-hear-me?
+	Received: MAPLE-CAN-YOU-HEAR-ME?
 
 
